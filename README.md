@@ -1,4 +1,5 @@
-***repositories link https://github.com/Groulbands/posmotri-v-okno-fd***
+https://github.com/Groulbands/posmotri-v-okno-fd
+***repositories link***
 
 # H1 Второй учебный проект Яндекс практикума: "Посмотри в окно"
 
