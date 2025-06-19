@@ -68,7 +68,6 @@ ol {
 .content {
   display: grid;
   width: 100%;
-  min-height: 534px;
   grid-template-columns: 711px 399px;
   justify-content: center;
   gap: 30px;
