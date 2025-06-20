@@ -232,7 +232,7 @@ button:focus-visible,
 
 .content__list-container {
   position: relative;
-  max-height: 298px;
+  height: 298px;
   overflow: auto;
 }
 
@@ -259,7 +259,7 @@ button:focus-visible,
 
 .content__video-card-description-container {
   flex-grow: 1;
-  max-width: 196px;
+  width: 196px;
 }
 
 .content__video-card-title {
